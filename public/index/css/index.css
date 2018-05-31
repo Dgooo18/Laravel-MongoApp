@@ -1,0 +1,26 @@
+.btn{
+	background-color: rgba(219, 165, 3, 0.85);
+}
+
+/*.cont{
+	width: 200px;
+	height: 350px;
+}*/
+#name :focus{
+	background-color: rgba(247, 237, 171, 0.47);
+	border-color: orange;
+}
+#form{
+
+	border-radius: 5px;
+	border-width: 2px;
+	border: 2px;
+	border-color:rgba(219, 165, 3, 0.85) ;
+	width: 400px;
+	height: 450px;
+
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-top: 10%;
+
+}
